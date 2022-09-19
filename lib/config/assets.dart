@@ -1,0 +1,110 @@
+///
+/// Created by Auro (aurosmruti@smarttersstudio.com) on 4/1/21 at 9:29 PM
+///
+
+mixin MyAssets {
+  static const logoSvg = 'assets/icons/logo_svg.svg';
+  static const logoPng = 'assets/icons/logo.png';
+  static const splashLogo = 'assets/icons/splash_logo.png';
+  static const backArrow = 'assets/icons/back_arrow.svg';
+  static const welcomeVector = 'assets/icons/welcome_vector.svg';
+  static const mail = 'assets/icons/mail.svg';
+  static const password = 'assets/icons/key.svg';
+  static const google = 'assets/icons/Google icon.svg';
+  static const facebook = 'assets/icons/Fb icon.svg';
+  static const person = 'assets/icons/person.svg';
+  static const phone = 'assets/icons/phone.svg';
+  static const search = 'assets/icons/search.svg';
+  static const loginVector = 'assets/icons/login_vector.svg';
+  static const signUpVector = 'assets/icons/register_vector.svg';
+  static const dashboardDisabled = 'assets/icons/dashboard_disabled.svg';
+  static const dashboardEnabled = 'assets/icons/dashboard_enabled.svg';
+  static const lectureDisabled = 'assets/icons/lectures_disabled.svg';
+  static const lectureEnabled = 'assets/icons/lectures_enabled.svg';
+  static const liveDisabled = 'assets/icons/live_disabled.svg';
+  static const liveEnabled = 'assets/icons/live_enabled.svg';
+  static const examDisabled = 'assets/icons/exams_disabled.svg';
+  static const examEnabled = 'assets/icons/exams_enabled.svg';
+  static const profileDisabled = 'assets/icons/profile_disabled.svg';
+  static const profileEnabled = 'assets/icons/profile_enabled.svg';
+  static const lock = 'assets/icons/lock.svg';
+  static const smallTick = 'assets/icons/small_tick.svg';
+  static const public = 'assets/icons/public.svg';
+  static const private = 'assets/icons/private.svg';
+  static const dropDown = 'assets/icons/drop_down.svg';
+  static const send = 'assets/icons/send.svg';
+  static const cross = 'assets/icons/cross icon.svg';
+  static const photo = 'assets/icons/photo_icon.svg';
+  static const calenderCheck = 'assets/icons/classAttend.svg';
+  static const attendance = 'assets/icons/attendance.svg';
+  static const upcomingClasses = 'assets/icons/upcoming_classes.svg';
+  static const personFilled = 'assets/icons/person_filled.svg';
+  static const phoneFilled = 'assets/icons/phone_filled.svg';
+  static const scholar = 'assets/icons/scholar_icon.svg';
+  static const dotMenu = 'assets/icons/Menu.svg';
+  static const mailEdit = 'assets/icons/emailEdit.svg';
+  static const subjects = 'assets/icons/subjects.svg';
+  static const institute = 'assets/icons/institute.svg';
+  static const scheduledExamsEnable = 'assets/icons/scheduled_exam_enabled.svg';
+  static const scheduledExamsDisabled =
+      'assets/icons/scheduled_exam_disabled.svg';
+  static const completedExamsEnabled = 'assets/icons/exam_complete_enabled.svg';
+  static const completedExamsDisabled =
+      'assets/icons/exam_complete_disabled.svg';
+  static const clockGrey = 'assets/icons/clock_grey.svg';
+  static const clockBlack = 'assets/icons/clock_black.svg';
+  static const calenderGrey = 'assets/icons/calender_grey.svg';
+  static const questionBlack = 'assets/icons/question_mark_black.svg';
+  static const avgScore = 'assets/icons/avg_score.svg';
+  static const percentScore = 'assets/icons/per_score.svg';
+  static const questionMarkGrey = 'assets/icons/question_mark.svg';
+  static const morning = 'assets/icons/morning.svg';
+  static const afternoon = 'assets/icons/afternoon.svg';
+  static const evening = 'assets/icons/evening.svg';
+  static const night = 'assets/icons/night.svg';
+  static const timetable = 'assets/icons/time_table.svg';
+  static const aboutUs = 'assets/icons/about_us.svg';
+  static const contactUs = 'assets/icons/contact_us.svg';
+  static const termsConditions = 'assets/icons/terms_c.svg';
+  static const privacyPolicy = 'assets/icons/privacy_policy.svg';
+  static const faq = 'assets/icons/faq.svg';
+  static const rateUs = 'assets/icons/rate_us.svg';
+  static const logOut = 'assets/icons/log_out.svg';
+  static const aboutUsBanner = 'assets/icons/about_us_banner.png';
+  static const mission = 'assets/icons/mission.svg';
+  static const vision = 'assets/icons/vision.svg';
+  static const contactUsVector = 'assets/icons/contact_us_vectore.svg';
+  static const quiz = 'assets/icons/quiz.svg';
+  static const hand = 'assets/icons/hand_raise.svg';
+  static const introLogo = 'assets/icons/intro_logo.svg';
+  static const intro1 = 'assets/icons/intro_vector_1.svg';
+  static const intro2 = 'assets/icons/intro_vector_2.svg';
+  static const intro3 = 'assets/icons/intro_vector_3.svg';
+  static const questionVector = 'assets/icons/questions_vector.svg';
+  static const uploadIcon = 'assets/icons/upload_icon.svg';
+  static const notSubmittedSmiley = 'assets/icons/not_submitted_smiley.svg';
+  static const submittedSmiley = 'assets/icons/submitted_smiley.svg';
+  static const evaluatedSmiley = 'assets/icons/evaluated_smiley.svg';
+  static const deleteVector = 'assets/icons/delete_vector.svg';
+  static const more = 'assets/icons/more.svg';
+  static const eLibrary = 'assets/icons/elibrary.svg';
+  static const assignments = 'assets/icons/assignments.svg';
+  static const filter = 'assets/icons/filters.svg';
+  static const filterCheckEnabled = 'assets/icons/filterCheckEnabled.svg';
+  static const filterCheckDisabled = 'assets/icons/filterCheckDisabled.svg';
+  static const pdf = 'assets/icons/pdf.svg';
+  static const download = 'assets/icons/download.svg';
+  static const downArrow = 'assets/icons/downArrow.svg';
+  static const exams = 'assets/icons/exams.svg';
+  static const assignment = 'assets/icons/assignment.svg';
+  static const parentVector = 'assets/icons/parent_vector.svg';
+  static const male = 'assets/icons/male.svg';
+  static const female = 'assets/icons/female.svg';
+  static const others = 'assets/icons/others.svg';
+  static const first = 'assets/icons/first.png';
+  static const second = 'assets/icons/second.png';
+  static const third = 'assets/icons/third.png';
+
+  /// animations
+  static const poppers = 'assets/anim/poppers.json';
+}

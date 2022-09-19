@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339902792815",
+    "project_id": "vems-277db",
+    "storage_bucket": "vems-277db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339902792815:android:d4bd012ad91916591f399a",
+        "android_client_info": {
+          "package_name": "com.vernacularmedium.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339902792815-227tbnbk3ivnq9qgjsudv8k7b7gvpm61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vernacularmedium.ems",
+            "certificate_hash": "65df1c0dbfb85976931aa0fdfd04c6a6f611bff4"
+          }
+        },
+        {
+          "client_id": "339902792815-q2447lfej3pqbutfovag9bsc9vksf60f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vernacularmedium.ems",
+            "certificate_hash": "662c1e161852db34d31264c6fab0bc678e2f2cb1"
+          }
+        },
+        {
+          "client_id": "339902792815-bn8lfr00p7ac3994ebumaapt64d5el36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWBUUBwKkuitwKSyAaQLTAqK8Sp7ZNgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339902792815-bn8lfr00p7ac3994ebumaapt64d5el36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

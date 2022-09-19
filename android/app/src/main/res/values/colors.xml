@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#037FFB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="zm_v1_yellow_100">#FFFFFF</color>
+    <color name="zm_v1_blue_A100">#FFFFFF</color>
+    <color name="zm_v1_blue_600">#FFFFFF</color>
+    <color name="zm_v1_yellow_400">#FFFFFF</color>
+    <color name="zm_v1_yellow_B100">#FFFFFF</color>
+    <color name="zm_v1_yellow_B200">#FFFFFF</color>
+    <color name="zm_v1_blue_B500">#FFFFFF</color>
+    <color name="zm_v1_blue_B300">#FFFFFF</color>
+    <color name="zm_v1_blue_B200">#FFFFFF</color>
+    <color name="zm_v1_blue_A900">#FFFFFF</color>
+    <color name="zm_v1_blue_A700">#FFFFFF</color>
+    <color name="zm_v1_white">#FFFFFF</color>
+    <color name="zm_v1_gray_E500">#FFFFFF</color>
+    <color name="zm_v1_white_A400_alpha50">#FFFFFF</color>
+    <color name="zm_v1_gray_E200">#FFFFFF</color>
+    <color name="zm_v1_gray_D100">#FFFFFF</color>
+    <color name="zm_v1_black_300">#FFFFFF</color>
+    <color name="zm_v1_gray_F900">#FFFFFF</color>
+    <color name="zm_v1_gray_F300">#FFFFFF</color>
+</resources>
